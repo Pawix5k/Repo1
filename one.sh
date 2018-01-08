@@ -1,3 +1,3 @@
 #1/bin/bash
 
-echo "ddd"
+echo "$USER"
