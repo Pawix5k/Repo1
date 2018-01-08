@@ -3,5 +3,4 @@
 echo "ddd"
 echo "ddd"
 echo "ddd"
-echo "$USER"
 echo "$DATE"
