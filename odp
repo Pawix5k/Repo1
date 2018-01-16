@@ -1,1 +1,1 @@
-git add . powoduje ze do poczekalni dodane sa nowe i zmienione pliki, bez usunietych
+git add . powoduje ze do poczekalni dodane sa pliki z pominieciem tych sprecyzowanych w gitignore
